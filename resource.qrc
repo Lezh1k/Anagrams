@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/anagrams/files">
+        <file>rus_dictionary</file>
+    </qresource>
+</RCC>
