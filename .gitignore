@@ -1,1 +1,4 @@
 Anagrams.pro.user
+build/*
+bin/*
+.cache/*
